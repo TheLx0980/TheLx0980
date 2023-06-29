@@ -1,4 +1,4 @@
-## नमस्ते! आपका मेरी GitHub प्रोफाइल पर स्वागत है।
+<h1 align="center">नमस्ते! आपका मेरी GitHub प्रोफाइल पर स्वागत है।</h1>
 
 <p align="center">
   <a href="https://github.com/thelx0980">
