@@ -3,8 +3,11 @@
 <p align="center">
   <a href="https://github.com/thelx0980">
     <img src="https://i.ibb.co/QCPTmp6/20230629-164320.png" alt="Profile Image" width="150">
-  </a>
+  </a>  
+<b>Lx 0980</b>
 </p>
 
-<h1 align="center" style="font-size: 24px; font-weight: bold;">Lx 0980</h1>
+
+<h1 align="center">Lx 0980</h1>
+
 
